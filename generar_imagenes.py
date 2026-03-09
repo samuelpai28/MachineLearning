@@ -2,6 +2,8 @@
 Generación de imágenes sintéticas y procesamiento por píxeles.
 Solo se usa NumPy y operaciones con arreglos.
 PIL se usa únicamente para cargar y guardar imágenes.
+
+#Samuel Gil López
 """
 
 import numpy as np
